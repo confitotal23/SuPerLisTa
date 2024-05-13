@@ -1,0 +1,81 @@
+{
+"name": "SuPerLisTa",
+"author": "confitotal23",
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+"url": "",
+"telegram": "",
+"info":"",
+"groups":
+    [
+        {
+        "name": "lista 1",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://m3u.ch/pl/768038dfbb25368225f04a27fadd7218_8a9b4e1e4e3884bc1d7abb2e23cdc8f5.m3u",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 2",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://m3u.ch/pl/d0274e128a6b3105d5ba6ff1b3e549ba_2e6e1ec454af0c90e97febf8aa353d16.m3u",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://m3u.ch/pl/b5d26a9bbb6ee7821013569178d141dc_b76ebba82658ee3ee2073974e323239c.m3u",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 4",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://m3u.ch/pl/adcd166eef87e10d9c94a8c2200f295f_f53375d83ad2d3c57266619bdc6fa8bc.m3u",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 5",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://718186030985353130.ofg0316.xyz:80/get.php?username=AntonioFrances&password=yNBekSDsSn&type=m3u_plus",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 6",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://581186046373158046.ofg0316.xyz:80/get.php?username=AngelJardinero&password=JardinesDoninos&type=m3u_plus",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 7",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://28186102491254602.ofg0316.xyz:80/get.php?username=Anton704LA&password=AntonM121A&type=m3u_plus",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 8",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://552186094343341094.ofg0316.xyz:80/get.php?username=Antito1023BA&password=Aptttwawe121&type=m3u_plus",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 9",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://720192506266303606.ofg0316.xyz:80/get.php?username=Antoniobus&password=38264921&type=m3u_plus",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 10",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://822192590815255590.ofg0316.xyz:80/get.php?username=AntonioNaranjo&password=Aaaaammmm1234&type=m3u_plus",
+        "info":"",
+        "import": false
+        }
+    ]
+}
