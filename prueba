@@ -76,6 +76,13 @@
         "url": "http://822192590815255590.ofg0316.xyz:80/get.php?username=AntonioNaranjo&password=Aaaaammmm1234&type=m3u_plus",
         "info":"",
         "import": false
+        },
+        {
+        "name": "lista 11",
+        "image": "https://telegra.ph/file/c96c897856acfd7ed5671.png",
+        "url": "http://m3u.ch/pl/77bb21d758b3c8b4d83d65ecd0ac4714_b8201ac2b4248b58278b5a9dc58975d7.m3u",
+        "info":"",
+        "import": false
         }
     ]
 }
