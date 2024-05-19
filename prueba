@@ -85,6 +85,20 @@
         "import": false
         },
         {
+        "name": "lista 12",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "https://raw.githubusercontent.com/confitotal23/Juanrc/main/Jrc",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 13",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "https://raw.githubusercontent.com/confitotal23/RubenParra/main/RParra",
+        "info":"",
+        "import": false
+        },
+        {
         "name": "ᗪᗴᑭᗝᖇ丅ᗴᔕ ᗩᑕᗴᔕ丅ᖇᗴᗩᗰ",
         "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
         "url": "https://ids-boss.vercel.app/af1.txt",
