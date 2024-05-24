@@ -1,5 +1,5 @@
 {
-"name": "SuPerLisTa2",
+"name": "SuPerLisTa",
 "author": "confitotal23",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://raw.githubusercontent.com/confitotal23/SuPerLisTa/main/prueba",
@@ -95,6 +95,34 @@
         "name": "lista 13",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
         "url": "https://raw.githubusercontent.com/confitotal23/RubenParra/main/RParra",
+        "info":"",
+        "import": false
+        },  
+        {
+        "name": "lista 14",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://m3u4u.com/m3u/v158yxzkmvak242zy9mw",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 15",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://m3u4u.com/m3u/p87vnrz69ra4mjm7n41j",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 16",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "http://m3u4u.com/m3u/5z3end9mr5cdgj4pyqpk",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "lista 17",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
+        "url": "https://pastebin.com/raw/pD5uZVv4",
         "info":"",
         "import": false
         }
