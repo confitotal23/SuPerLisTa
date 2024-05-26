@@ -1,12 +1,19 @@
 {
-"name": "SuPerLisTa",
-"author": "confitotal23",
+"name": "​🆂🆄🅿🅴🆁🅻🅸🆂🆃🅰",
+"author": "🅼🅸🅽🅸🅾🅽🆂",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "url": "https://raw.githubusercontent.com/confitotal23/SuPerLisTa/main/prueba",
 "telegram": "",
 "info":"",
 "groups":
     [
+        {
+        "name": "​🅼🅸🅽🅸🅾🅽🆂​",
+        "image": "https://i.postimg.cc/W4MmqqSK/minions.png",
+        "url": "",
+        "info":"",
+        "import": false
+        },
         {
         "name": "lista 1",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
@@ -123,13 +130,6 @@
         "name": "lista 17",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
         "url": "https://pastebin.com/raw/pD5uZVv4",
-        "info":"",
-        "import": false
-        },
-        {
-        "name": "lista s/n",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/320px-HD-TV_Logo.svg.png",
-        "url": "",
         "info":"",
         "import": false
         }
