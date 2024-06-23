@@ -85,9 +85,16 @@
         "import": false
         },
         {
-        "name": "🅲🅸🅽🅴🅵🅸🅻🅾🆂",
+        "name": "🅲🅸🅽🅴🅵🅸🅻🅾🆂 🅿🅴🅻🅸🆂",
         "image": "https://i.postimg.cc/BnP2JRxP/cinefilos.jpg",
         "url": "https://m3u.ch/pl/3c233c699ad765ce8de7de9ce2324322_c5dfaa0234122f1fa33a107eb63306ce.m3u",
+        "info":"",
+        "import": false
+        },
+        {
+        "name": "🅲🅸🅽🅴🅵🅸🅻🅾🆂 🆂🅴🆁🅸🅴🆂",
+        "image": "https://i.postimg.cc/BnP2JRxP/cinefilos.jpg",
+        "url": "https://m3u.ch/pl/7554cc2a192ba8af8b7da66f6cb7658e_440d324b14e4dc7ce3627ea201413024.m3u",
         "info":"",
         "import": false
         }
